@@ -6,3 +6,5 @@ Simple unity VR-ready (hopefully) scene.
 1. Update to latest version of **Unity**:  https://unity3d.com/get-unity/update
 2. Once repo set up locally, download **git LFS** (https://git-lfs.github.com/) and run this in your local repository:  *git install lfs*
 3. Download **Steam** and **SteamVR** *(under Library->Tools in Steam)*:  https://store.steampowered.com/about/
+
+For actual usage, you need to have SteamVR hooked up properly with Vive for everything to work together.
